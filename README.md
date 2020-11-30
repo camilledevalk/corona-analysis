@@ -5,4 +5,4 @@ To me, it is crucial to visualise data to make sense of it. The daily updates li
 
 In the news updates, the 'y more than yesterday' part, is also valuable, because it gives a sense of how fast the growth (new cases) is growing. In math terms, this is called the second derivative. You hardly see this data visualised though, but I includeded it in my graphs.
 
-I'm very thankful for my astronomy and physics background, it allows me to quickly write some code to get a feeling for all kinds of different data. For those interested: my code can be found on https://github.com/camilledevalk/corona-analysis.
+I'm very thankful for my astronomy and physics background, it allows me to quickly write some code to get a feeling for all kinds of different data. See LinkedIn post: https://www.linkedin.com/posts/camilledevalk_to-me-it-is-crucial-to-visualise-data-to-activity-6739176324742623232-JK66
